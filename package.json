@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "yarn dev",
+    "start": "yarn run build"
   },
   "dependencies": {
     "axios": "^0.23.0",
