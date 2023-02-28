@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "yarn",
-    "build": "yarn",
+    "build": "yarn build",
     "start": "yarn dev"
   },
   "dependencies": {
